@@ -1,0 +1,12 @@
+C:\CountryPoc\countrypoc\src\Core\bin\Debug\net8.0\MyCleanArchitectureApp.Core.deps.json
+C:\CountryPoc\countrypoc\src\Core\bin\Debug\net8.0\MyCleanArchitectureApp.Core.dll
+C:\CountryPoc\countrypoc\src\Core\bin\Debug\net8.0\MyCleanArchitectureApp.Core.pdb
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.csproj.AssemblyReference.cache
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.AssemblyInfoInputs.cache
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.AssemblyInfo.cs
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.csproj.CoreCompileInputs.cache
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.dll
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\refint\MyCleanArchitectureApp.Core.dll
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\MyCleanArchitectureApp.Core.pdb
+C:\CountryPoc\countrypoc\src\Core\obj\Debug\net8.0\ref\MyCleanArchitectureApp.Core.dll

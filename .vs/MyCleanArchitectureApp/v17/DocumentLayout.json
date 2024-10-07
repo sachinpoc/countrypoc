@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CountryPoc\\countrypoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|c:\\countrypoc\\countrypoc\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|c:\\countrypoc\\countrypoc\\src\\core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|solutionrelative:src\\core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|c:\\countrypoc\\countrypoc\\src\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|solutionrelative:src\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|c:\\countrypoc\\countrypoc\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B7B922-6FFC-459E-AC10-F5A2EC170325}|tests\\Application.Tests\\MyCleanArchitectureApp.Tests.csproj|c:\\countrypoc\\countrypoc\\tests\\application.tests\\mycleanarchitectureapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81B7B922-6FFC-459E-AC10-F5A2EC170325}|tests\\Application.Tests\\MyCleanArchitectureApp.Tests.csproj|solutionrelative:tests\\application.tests\\mycleanarchitectureapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\mycleanarchitectureapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\mycleanarchitectureapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|c:\\countrypoc\\countrypoc\\src\\core\\mycleanarchitectureapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|solutionrelative:src\\core\\mycleanarchitectureapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE2B3B-50C8-4208-9E61-7679D611EE76}|src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj|c:\\countrypoc\\countrypoc\\src\\infrastructure\\mycleanarchitectureapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FDE2B3B-50C8-4208-9E61-7679D611EE76}|src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj|solutionrelative:src\\infrastructure\\mycleanarchitectureapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|c:\\countrypoc\\countrypoc\\src\\webapi\\mycleanarchitectureapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|solutionrelative:src\\webapi\\mycleanarchitectureapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|c:\\countrypoc\\countrypoc\\src\\webapi\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|solutionrelative:src\\webapi\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|c:\\countrypoc\\countrypoc\\src\\webapi\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F430FE-46EE-4BD3-88FE-8ED5B39D11A9}|src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj|solutionrelative:src\\webapi\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDE2B3B-50C8-4208-9E61-7679D611EE76}|src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj|c:\\countrypoc\\countrypoc\\src\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDE2B3B-50C8-4208-9E61-7679D611EE76}|src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\dtos\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\dtos\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|c:\\countrypoc\\countrypoc\\src\\application\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD847F-6CEB-4C59-99D1-14E552702826}|src\\Application\\MyCleanArchitectureApp.Application.csproj|solutionrelative:src\\application\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|c:\\countrypoc\\countrypoc\\src\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|solutionrelative:src\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|c:\\countrypoc\\countrypoc\\src\\core\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|solutionrelative:src\\core\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|c:\\countrypoc\\countrypoc\\src\\core\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99156020-B1E6-4548-822F-1469DF1050E7}|src\\Core\\MyCleanArchitectureApp.Core.csproj|solutionrelative:src\\core\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:46:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Core\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Core\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:38:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:37:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T04:35:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:16:30.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:29:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyCleanArchitectureApp.Application",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\MyCleanArchitectureApp.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\MyCleanArchitectureApp.Application.csproj",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\MyCleanArchitectureApp.Application.csproj",
+              "RelativeToolTip": "src\\Application\\MyCleanArchitectureApp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T04:17:13.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyCleanArchitectureApp.Core",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Core\\MyCleanArchitectureApp.Core.csproj",
+              "RelativeDocumentMoniker": "src\\Core\\MyCleanArchitectureApp.Core.csproj",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Core\\MyCleanArchitectureApp.Core.csproj",
+              "RelativeToolTip": "src\\Core\\MyCleanArchitectureApp.Core.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T03:12:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyCleanArchitectureApp.Infrastructure",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\MyCleanArchitectureApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T03:22:59.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCleanArchitectureApp.Tests",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\tests\\Application.Tests\\MyCleanArchitectureApp.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\Application.Tests\\MyCleanArchitectureApp.Tests.csproj",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\tests\\Application.Tests\\MyCleanArchitectureApp.Tests.csproj",
+              "RelativeToolTip": "tests\\Application.Tests\\MyCleanArchitectureApp.Tests.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAtwA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T04:18:05.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyCleanArchitectureApp.WebAPI",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj",
+              "RelativeDocumentMoniker": "src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj",
+              "RelativeToolTip": "src\\WebAPI\\MyCleanArchitectureApp.WebAPI.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T04:17:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controllers\\StateController.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\Controllers\\StateController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controllers\\StateController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:27:13.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\WebAPI\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:26:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:24:19.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:22:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StateService.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\Services\\StateService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\StateService.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\Services\\StateService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\StateService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:21:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StateDto.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\DTOs\\StateDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\StateDto.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\DTOs\\StateDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\StateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:17:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Application\\DTOs\\CountryDto.cs",
+              "RelativeDocumentMoniker": "src\\Application\\DTOs\\CountryDto.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Application\\DTOs\\CountryDto.cs",
+              "RelativeToolTip": "src\\Application\\DTOs\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:17:32.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:15:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Core\\Entities\\State.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Entities\\State.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Core\\Entities\\State.cs",
+              "RelativeToolTip": "src\\Core\\Entities\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:14:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\CountryPoc\\countrypoc\\src\\Core\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Entities\\Country.cs",
+              "ToolTip": "C:\\CountryPoc\\countrypoc\\src\\Core\\Entities\\Country.cs",
+              "RelativeToolTip": "src\\Core\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:13:49.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
