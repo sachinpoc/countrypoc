@@ -5,9 +5,16 @@ using MyCleanArchitectureApp.Core.Interfaces;
 using MyCleanArchitectureApp.Application.Services;
 using MyCleanArchitectureApp.Infrastructure;
 using MyCleanArchitectureApp.Infrastructure.Services;
+using Microsoft.EntityFrameworkCore;
+using MyCleanArchitectureApp.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+// Get the connection string from appsettings.json
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
+// Register the ApplicationDbContext with the connection string
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(connectionString));
 // Configuration settings
 var secretKey = builder.Configuration["Jwt:Key"];
 var issuer = builder.Configuration["Jwt:Issuer"];
@@ -44,6 +51,9 @@ builder.Services.AddAuthentication(options =>
 
 
 var app = builder.Build();
+
+// Register the custom exception handling middleware
+app.UseMiddleware<MyCleanArchitectureApp.WebAPI.Middleware.ExceptionHandlingMiddleware>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

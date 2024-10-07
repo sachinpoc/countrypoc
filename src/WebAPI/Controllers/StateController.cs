@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MyCleanArchitectureApp.Application.DTOs;
 using MyCleanArchitectureApp.Application.Services;
 
 namespace MyCleanArchitectureApp.WebAPI.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class StateController : ControllerBase
