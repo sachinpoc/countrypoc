@@ -1,7 +1,9 @@
-﻿namespace MyCleanArchitectureApp.Core.Interfaces
+﻿using System.Threading.Tasks;
+
+namespace MyCleanArchitectureApp.Core.Interfaces
 {
     public interface ITokenService
     {
-        string GenerateToken(string username);
+        Task<string> GenerateToken(string username);
     }
 }

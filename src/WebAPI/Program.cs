@@ -4,25 +4,25 @@ using System.Text;
 using MyCleanArchitectureApp.Core.Interfaces;
 using MyCleanArchitectureApp.Application.Services;
 using MyCleanArchitectureApp.Infrastructure;
+using MyCleanArchitectureApp.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configuration settings
+var secretKey = builder.Configuration["Jwt:Key"];
+var issuer = builder.Configuration["Jwt:Issuer"];
+var audience = builder.Configuration["Jwt:Audience"];
 // Add services to the container
 builder.Services.AddControllers();
 builder.Services.AddAutoMapper(typeof(Program)); // Register AutoMapper
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); // Register UnitOfWork
 builder.Services.AddScoped<CountryService>();// Register CountryService
 builder.Services.AddScoped<StateService>();// Register CountryService
-builder.Services.AddScoped<ITokenService, TokenService>(); // Register TokenService
+builder.Services.AddScoped<ITokenService>(provider => new TokenService(secretKey, issuer, audience));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// JWT Configuration
-var jwtSettings = builder.Configuration.GetSection("JwtSettings");
-var key = jwtSettings["Key"];
-var issuer = jwtSettings["Issuer"];
-var audience = jwtSettings["Audience"];
-
+// Configure JWT authentication
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -38,9 +38,10 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         ValidIssuer = issuer,
         ValidAudience = audience,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key))
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey))
     };
 });
+
 
 var app = builder.Build();
 
